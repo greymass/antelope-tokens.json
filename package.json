@@ -1,0 +1,21 @@
+{
+    "name": "antelope-tokens",
+    "version": "0.0.1",
+    "description": "The collection of all Antelope tokens.",
+    "main": "tokens.json",
+    "scripts": {
+        "build": "node ./scripts/build.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/greymass/antelope-tokens.git"
+    },
+    "keywords": [
+        "EOS",
+        "Antelope",
+        "tokens"
+    ],
+    "author": "greymass",
+    "license": "MIT",
+    "homepage": "https://github.com/greymass/antelope-tokens#readme"
+}
