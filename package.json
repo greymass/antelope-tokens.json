@@ -1,5 +1,5 @@
 {
-    "name": "antelope-tokens",
+    "name": "@greymass/antelope-tokens",
     "version": "0.0.1",
     "description": "The collection of all Antelope tokens.",
     "main": "tokens.json",
